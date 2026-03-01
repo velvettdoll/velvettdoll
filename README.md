@@ -12,8 +12,9 @@ $$.　15　, 𝒎𝒆𝒙𝒊𝒄𝒂𝒏　$$ ![pixel1](https://files.catbox.mo
 <br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=radionapple&color=grey)
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=d6uz8uwut46i8dyz3nyrvmh88&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=534c42&bar_color_cover=false">
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31afi67rhjvwhsyudu6t7yug3voa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=534c42&bar_color_cover=false">
+</a>
   </a>
 </p>
 
